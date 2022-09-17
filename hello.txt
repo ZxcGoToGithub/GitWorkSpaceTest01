@@ -5,3 +5,5 @@ hello Git!!!
 hello Git!!!  master，合并冲突！
 hello Git!!!
 hello Git!!!
+
+新的添加，位于master，测试合并冲突！
