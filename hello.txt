@@ -10,3 +10,4 @@ hello Git!!!
 hello Git!!!  hot-fix，冲突合并测试！  新加冲突合并测试！！！
 【冲突合并手动解决！！！】
 《来自Github远程库的修改》
+【来自QQ clone的修改，QQ将push推送到远程库中】
