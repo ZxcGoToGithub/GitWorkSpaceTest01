@@ -1,6 +1,6 @@
 hello Git!!!  新增+1
 hello Git!!!  测试新增+2
-hello Git!!!
+hello Git!!!  热修复版本+1
 hello Git!!!
 hello Git!!!
 hello Git!!!
