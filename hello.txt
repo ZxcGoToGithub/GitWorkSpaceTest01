@@ -2,6 +2,6 @@ hello Git!!!  新增+1
 hello Git!!!  测试新增+2
 hello Git!!!  热修复版本+1
 hello Git!!!
-hello Git!!!
+hello Git!!!  master，合并冲突！
 hello Git!!!
 hello Git!!!
