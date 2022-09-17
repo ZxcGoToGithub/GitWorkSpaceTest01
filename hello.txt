@@ -9,3 +9,4 @@ hello Git!!!
 新的添加，位于master，测试合并冲突！
 hello Git!!!  hot-fix，冲突合并测试！  新加冲突合并测试！！！
 【冲突合并手动解决！！！】
+《来自Github远程库的修改》
