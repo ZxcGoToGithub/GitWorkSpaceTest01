@@ -4,4 +4,4 @@ hello Git!!!  热修复版本+1
 hello Git!!!
 hello Git!!!
 hello Git!!!
-hello Git!!!  hot-fix，冲突合并测试！
+hello Git!!!  hot-fix，冲突合并测试！  新加冲突合并测试！！！
